@@ -25,7 +25,7 @@ Kiểm thử tự động với các kịch bản mô phỏng nhiều người d
 - **Kết Quả Mong Đợi:** Trang chủ phản hồi đầy đủ, không lỗi
 - **Kết Quả Thực Tế:** Đã gửi yêu cầu thành công, không phát sinh lỗi
 - **Kết quả sau khi test:**  
-![Kết quả test](https://github.com/gtaAsian/Jmeter/assets/170786444/e9529079-f7f6-43e0-818d-535dc613f8c2)
+![Kết quả test](https://github.com/hieuvm24/JMeter/issues/2#issue-3191714522)
 - **Thời gian phản hồi trung bình:** 3.5 giây
 - **Tỷ lệ yêu cầu thành công:** 100%
 
