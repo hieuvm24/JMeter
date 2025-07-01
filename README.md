@@ -42,7 +42,7 @@ Kiểm thử tự động với các kịch bản mô phỏng nhiều người d
 - **Kết Quả Mong Đợi:** Tất cả trang phản hồi đầy đủ, tốc độ chấp nhận được
 - **Kết Quả Thực Tế:** Có 1 số trang phản hồi chậm, tỷ lệ lỗi 2%
 - **Kết quả sau khi test:**  
-![Kết quả test](https://github.com/gtaAsian/Jmeter/assets/170786444/f8ef453a-c512-40f7-a294-049710fc8436)
+![Kết quả test](https://github.com/hieuvm24/JMeter/issues/3#issue-3191719305)
 - **Thời gian phản hồi trung bình:** 6.2 giây
 - **Tỷ lệ yêu cầu thành công:** 98%
 
